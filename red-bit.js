@@ -1,1 +1,0 @@
-window.location.href = "https://maysin.cfd/moP/go?sid=7747";
