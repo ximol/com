@@ -1,1 +1,1 @@
-window.location.href = "https://experiencible.xyz/SrX/go?sid=7744";
+window.location.href = "https://experiencible.xyz/Sxyn/go?sid=7744";
