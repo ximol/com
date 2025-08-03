@@ -1,1 +1,1 @@
-window.location.href = "https://decentron.info/ASYry/go?sid=7744";
+window.location.href = "https://decentron.info/nkeg/go?sid=7744";
