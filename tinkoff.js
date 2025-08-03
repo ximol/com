@@ -1,1 +1,1 @@
-window.location.href = "https://decentron.info/ont/go?sid=7744";
+window.location.href = "https://decentron.info/CrZ/go?sid=7744";
