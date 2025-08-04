@@ -1,1 +1,1 @@
-window.location.href = "https://paperhangers.info/nuPN/go?sid=7744";
+window.location.href = "https://paperhangers.info/VpNu/go?sid=7744";
