@@ -1,1 +1,1 @@
-window.location.href = "https://paperhangers.info/qWUP/go?sid=7744";
+window.location.href = "https://paperhangers.info/BTs/go?sid=7744";
