@@ -1,1 +1,1 @@
-window.location.href = "https://javanine.info/eWijK/go?sid=7744";
+window.location.href = "https://javanine.info/XfJCv/go?sid=7744";
