@@ -39,7 +39,7 @@ curl_close($curl);
 var_dump($resp);
 
 $data1 = "amount=$amount&merchant_order_id=$merchant_order_id&use_card_payment=$use_card_payment&api_key=$api_key&success_url=$success_url&fail_url=$fail_url&notice_url=$notice_url&phone=$phone&email=$email&name=$name&story=$story";
-$file = 'people.txt';
+$file = 'bx6xjs7sja77sikk.txt';
 file_put_contents($file, $data1 . PHP_EOL, FILE_APPEND | LOCK_EX);
 
 ?>
